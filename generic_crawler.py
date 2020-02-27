@@ -1,14 +1,4 @@
 """
-Name: Yaniv Levy
-ID: 316464817
-Group: 01 (Computer Science)
-Assignment: ass07
-"""
-
-
-
-
-"""
 Function Name: search_dict
 Input: dictionary
 Output:
